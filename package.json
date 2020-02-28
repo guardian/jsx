@@ -1,0 +1,18 @@
+{
+  "name": "jsx",
+  "version": "0.1.0",
+  "description": "JSX factory for server-side (node) only projects",
+  "main": "index.js",
+  "repository": "git@github.com:guardian/jsx.git",
+  "author": "Nicolas Long <nicolas.long@guardian.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.3",
+    "jest": "^24.9.0",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.2"
+  }
+}
